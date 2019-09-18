@@ -21,12 +21,11 @@
 		<pre>
 			<h2> Passenger Details</h2>
 			First Name:<input type="text" name="passengerFirstName" />
-			Middle Name:<input type="text" name="passengerMiddleName" />
 			Last Name:<input type="text" name="passengerLastName" />
 			Email:<input type="text" name="passengerEmail" />
 			Phone:<input type="text" name="passengerPhone" />
 			<h2> Card Details</h2>
-			Name On the Card:<input type="text" name="NameOnTheCard" />
+			Name On the Card:<input type="text" name="nameOnTheCard" />
 			Card Number:<input type="text" name="cardNumber" />
 			Expiration Date:<input type="text" name="expirationDate" />
 			Security Code:<input type="text" name="securityCode" />
