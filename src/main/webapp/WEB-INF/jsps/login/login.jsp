@@ -21,7 +21,7 @@
 			UserName/Email: <input type="text" name="email" />
 			Password : <input type="password" name="password" />
 			<input type="submit" value="Login" class="btn btn-success"/>
-			${msg }
+			<span style="color:red;">${msg }</span>
 	</form>
 </center>
 

@@ -17,6 +17,7 @@ public class UserController {
 	@Autowired
 	UserRepository user_repo;
 	
+	
 	@RequestMapping("/showReg")
 	public String showRegage() {
 		return "login/registerUser";
